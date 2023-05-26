@@ -215,11 +215,10 @@ void Error_Handler(void)
  ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE)
  
 
- 
- ![Uploading ex 5 output 3.png…]()
 
  
- 
+ ![ex 5 output 3](https://github.com/kancharlaNarmadha/EXPERIMENT-06-INTERRUPT-GENERATION-USING-PUSHBUTTON-AND-SIMULATING-THE-OUTPUT-/assets/119559316/4cf1c298-58c2-4e27-8610-803a2e929ee5)
+
  
  
 ## Result :
